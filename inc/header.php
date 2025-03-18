@@ -45,13 +45,16 @@
                 </div>
                 <div class="collapse navbar-collapse" id="main_nav">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link active" href="#!">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="about.php">About Us</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="#!">Services One</a></li>
-                                <li><a class="dropdown-item" href="#!">Services Two</a></li>
+                                <li><a class="dropdown-item" href="#!">Compliance and documentation</a></li>
+                                <li><a class="dropdown-item" href="#!">Design and implementation</a></li>
+                                <li><a class="dropdown-item" href="#!">Reviews and health checks</a></li>
+                                <li><a class="dropdown-item" href="#!">Tax automation and process optimization</a></li>
+                                <li><a class="dropdown-item" href="#!">Professional Training and Coaching</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="#!">Case Study</a></li>
