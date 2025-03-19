@@ -64,7 +64,7 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" href="#!">Case Study</a></li>
                         <li class="nav-item"><a class="nav-link" href="#!">Gallery</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     </ul>
                     <div class="nav-right">
                         <div class="nav-right-btn">

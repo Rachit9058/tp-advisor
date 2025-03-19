@@ -4160,9 +4160,9 @@ label {
     align-items: center;
     text-align: center;
     gap: 15px;
-    padding: 30px 20px;
+    padding: 20px 20px;
     position: relative;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     border-radius: 15px 50px 50px 50px;
     background: var(--theme-bg-light);
     transition: var(--transition);

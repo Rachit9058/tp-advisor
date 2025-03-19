@@ -52,7 +52,7 @@
                         <div class="col-xl-8 col-lg-8">
                             <div class="service-details">
                                 <div class="service-details-img mb-30">
-                                    <img src="assets/img/service/single.jpg" alt="thumb">
+                                    <img src="assets/img/service/s5.jpg" alt="thumb">
                                 </div>
                                 <div class="service-details">
                                     <h3 class="mb-20">Professional Training and
