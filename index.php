@@ -235,7 +235,7 @@
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline light"><i class="fas fa-percent"></i> Experience</span>
                                 <h2 class="site-title my-3">Decades of Expertise in <span>Global Tax </span>
-                                    and Transfer Pricing</h2>
+                                    and Transfer Pricing </h2>
                             </div>
                             <div class="pricing-feature">
                                 <ul>

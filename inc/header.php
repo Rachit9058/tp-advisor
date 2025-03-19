@@ -50,11 +50,16 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="#!">Compliance and documentation</a></li>
-                                <li><a class="dropdown-item" href="#!">Design and implementation</a></li>
-                                <li><a class="dropdown-item" href="#!">Reviews and health checks</a></li>
-                                <li><a class="dropdown-item" href="#!">Tax automation and process optimization</a></li>
-                                <li><a class="dropdown-item" href="#!">Professional Training and Coaching</a></li>
+                                <li><a class="dropdown-item" href="compliance-documentation.php">Compliance and
+                                        documentation</a></li>
+                                <li><a class="dropdown-item" href="design-implementation.php">Design and
+                                        implementation</a></li>
+                                <li><a class="dropdown-item" href="reviews-health-checks.php">Reviews and health
+                                        checks</a></li>
+                                <li><a class="dropdown-item" href="tax-automation-process-optimization.php">Tax
+                                        automation and process optimization</a></li>
+                                <li><a class="dropdown-item" href="professional-raining-coaching.php">Professional
+                                        Training and Coaching</a></li>
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="#!">Case Study</a></li>
